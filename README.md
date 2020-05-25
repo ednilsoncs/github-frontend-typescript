@@ -2,13 +2,15 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
+- [Typescript](https://www.typescriptlang.org/)
 - [React](https://reactjs.org)
 - [Redux](http://redux.js.org/)
-- [Typescript](https://www.typescriptlang.org/)
+- [Redux Saga](https://redux-saga.js.org/)
+
 
 ## 💻 Projeto
 
-O Projeto foi feito com o intuito de aprender o uso das novas tecnologias exigidas pelo mercado de tecnologia. Na aplicação fizemos apenas a listagem do meu usuario do github. 
+O Projeto foi feito com o intuito de aprender o uso das novas tecnologias exigidas pelo mercado de tecnologia. Na aplicação fizemos apenas a listagem dos repositorios do meu usuario do github. 
 
 ## :hammer: Scripts
 
